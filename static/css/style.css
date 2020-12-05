@@ -11,11 +11,6 @@
   margin-right: 0;
 }
 
-.letter {
-  display: inline-block;
-  opacity: 0;
-}
-
 html, body, .row, .wrapper{
   width: 100%;
 } 

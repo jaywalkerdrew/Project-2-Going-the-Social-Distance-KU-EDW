@@ -478,7 +478,8 @@ function makeChart(list) {
   //   var weatherUrl = "http://api.openweathermap.org/data/2.5/weather?lat="+list[i].lat+"&lon="+list[i].long+"&APPID="+apiKey+"&units=imperial";
     
   //   d3.json(weatherUrl).then(d => {
-  //     curr = d;
+  //     curr = d.main.temp;
+  //     console.log(curr);
   //   })
     
   //   tempList.push(curr);
