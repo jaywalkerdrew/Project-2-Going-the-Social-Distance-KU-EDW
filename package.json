@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "velocity-animate": "^2.0.6"
+  }
+}
